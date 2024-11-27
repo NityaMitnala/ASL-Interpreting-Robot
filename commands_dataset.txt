@@ -1,0 +1,1729 @@
+move forward, 0
+come here, 0
+towards me, 0
+bring to me, 0
+go forward, 0
+advance, 0
+proceed, 0
+step forward, 0
+move ahead, 0
+please move forward, 0
+I would like you to move forward, 0
+can you come here, 0
+please advance, 0
+move in my direction, 0
+walk towards me, 0
+take a step forward, 0
+move closer to me, 0
+approach me, 0
+head this way, 0
+make your way forward, 0
+proceed in my direction, 0
+come forward, 0
+move in this direction, 0
+please come forward, 0
+advance towards me, 0
+move straight ahead, 0
+walk forward, 0
+step towards me, 0
+move in front, 0
+please proceed forward, 0
+come in my direction, 0
+move towards my location, 0
+please walk forward, 0
+advance straight ahead, 0
+move directly forward, 0
+come straight ahead, 0
+please step forward, 0
+move in a forward direction, 0
+walk straight ahead, 0
+please advance forward, 0
+come towards my position, 0
+move in a straight line forward, 0
+please come towards me, 0
+advance in my direction, 0
+move straight towards me, 0
+please move in my direction, 0
+come directly towards me, 0
+move straight in my direction, 0
+please advance in my direction, 0
+come straight towards me, 0
+move directly in my direction, 0
+please proceed in my direction, 0
+come directly forward, 0
+move straight ahead towards me, 0
+please walk in my direction, 0
+come directly in my direction, 0
+move straight towards my position, 0
+please step in my direction, 0
+come directly towards my position, 0
+move straight in my direction, 0
+please advance towards my position, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please proceed towards my position, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please walk towards my position, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please step towards my position, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please advance towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please proceed towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please walk towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please step towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please advance towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please proceed towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please walk towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please step towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please advance towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please proceed towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please walk towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please step towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please advance towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please proceed towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please walk towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please step towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please advance towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please proceed towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please walk towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please step towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please advance towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please proceed towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please walk towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please step towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please advance towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please proceed towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please walk towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please step towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please advance towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please proceed towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please walk towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please step towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please advance towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please proceed towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please walk towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please step towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please advance towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please proceed towards my location, 0
+come directly towards my location, 0
+move straight towards my location, 0
+please walk towards my location, 0
+move the cube forward, 0
+push the cube forward, 0
+advance the cube, 0
+bring the cube towards me, 0
+move the cube in my direction, 0
+shift the cube forward, 0
+please move the cube forward, 0
+I would like you to move the cube forward, 0
+can you push the cube forward, 0
+please advance the cube, 0
+move the cube straight ahead, 0
+bring the cube closer to me, 0
+move the cube towards my position, 0
+push the cube in my direction, 0
+advance the cube towards me, 0
+move the cube directly forward, 0
+please bring the cube forward, 0
+I need you to move the cube forward, 0
+can you advance the cube, 0
+please push the cube ahead, 0
+move the cube towards me, 0
+bring the cube in my direction, 0
+move the cube closer, 0
+push the cube towards my location, 0
+advance the cube straight ahead, 0
+move the cube directly towards me, 0
+please move the cube in my direction, 0
+I would like you to bring the cube forward, 0
+can you move the cube ahead, 0
+please advance the cube towards me, 0
+move the cube straight towards my position, 0
+bring the cube directly towards me, 0
+move the cube closer to my location, 0
+push the cube directly forward, 0
+advance the cube towards my location, 0
+move the cube in a forward direction, 0
+please bring the cube closer, 0
+I need you to push the cube forward, 0
+can you move the cube towards me, 0
+please advance the cube straight ahead, 0
+move the cube directly in my direction, 0
+bring the cube straight towards me, 0
+move the cube closer to my position, 0
+push the cube towards my position, 0
+advance the cube directly forward, 0
+move the cube in my direction, 0
+please bring the cube towards me, 0
+I would like you to move the cube closer, 0
+can you push the cube towards me, 0
+please advance the cube directly towards me, 0
+move the cube straight towards my location, 0
+bring the cube directly in my direction, 0
+move the cube closer to my direction, 0
+push the cube towards my direction, 0
+advance the cube in my direction, 0
+move the cube forward towards me, 0
+please bring the cube directly forward, 0
+I need you to move the cube towards my position, 0
+can you advance the cube towards my location, 0
+please push the cube directly towards me, 0
+move the cube straight towards my direction, 0
+bring the cube directly towards my position, 0
+move the cube closer to my direction, 0
+push the cube towards my location, 0
+advance the cube in my direction, 0
+move the cube forward towards my location, 0
+please bring the cube directly towards my location, 0
+I would like you to move the cube towards my direction, 0
+can you push the cube towards my direction, 0
+please advance the cube directly towards my position, 0
+move the cube straight towards my direction, 0
+bring the cube directly towards my location, 0
+move the cube closer to my position, 0
+push the cube towards my direction, 0
+advance the cube in my direction, 0
+move the cube forward towards my direction, 0
+please bring the cube directly towards my direction, 0
+I need you to move the cube towards my location, 0
+can you advance the cube towards my direction, 0
+please push the cube directly towards my location, 0
+move the cube straight towards my position, 0
+bring the cube directly towards my direction, 0
+move the cube closer to my location, 0
+push the cube towards my position, 0
+advance the cube in my direction, 0
+move the cube forward towards my position, 0
+please bring the cube directly towards my position, 0
+I would like you to move the cube towards my location, 0
+can you push the cube towards my position, 0
+please advance the cube directly towards my location, 0
+move the cube straight towards my position, 0
+bring the cube directly towards my location, 0
+move the cube closer to my direction, 0
+push the cube towards my location, 0
+advance the cube in my direction, 0
+move the cube forward towards my location, 0
+please bring the cube directly towards my location, 0
+I need you to move the cube towards my position, 0
+can you advance the cube towards my location, 0
+please push the cube directly towards my position, 0
+move the cube straight towards my direction, 0
+bring the cube directly towards my position, 0
+move the cube closer to my location, 0
+push the cube towards my direction, 0
+advance the cube in my direction, 0
+move the cube forward towards my direction, 0
+please bring the cube directly towards my direction, 0
+I would like you to move the cube towards my position, 0
+can you push the cube towards my location, 0
+please advance the cube directly towards my direction, 0
+move the cube straight towards my location, 0
+bring the cube directly towards my direction, 0
+move the cube closer to my position, 0
+push the cube towards my location, 0
+advance the cube in my direction, 0
+move the cube forward towards my location, 0
+please bring the cube directly towards my location, 0
+I need you to move the cube towards my direction, 0
+can you advance the cube towards my position, 0
+please push the cube directly towards my location, 0
+move the cube straight towards my position, 0
+bring the cube directly towards my location, 0
+move the cube closer to my direction, 0
+push the cube towards my position, 0
+advance the cube in my direction, 0
+move the cube forward towards my position, 0
+please bring the cube directly towards my position, 0
+I would like you to move the cube towards my location, 0
+can you push the cube towards my position, 0
+please advance the cube directly towards my location, 0
+move the cube straight towards my position, 0
+bring the cube directly towards my location, 0
+move the cube closer to my direction, 0
+push the cube towards my location, 0
+advance the cube in my direction, 0
+move the cube forward towards my location, 0
+please bring the cube directly towards my location, 0
+I need you to move the cube towards my position, 0
+can you advance the cube towards my location, 0
+please push the cube directly towards my position, 0
+move the cube straight towards my direction, 0
+bring the cube directly towards my position, 0
+move the cube closer to my location, 0
+push the cube towards my direction, 0
+advance the cube in my direction, 0
+move the cube forward towards my direction, 0
+please bring the cube directly towards my direction, 0
+I would like you to move the cube towards my position, 0
+can you push the cube towards my location, 0
+please advance the cube directly towards my direction, 0
+move the cube straight towards my location, 0
+bring the cube directly towards my direction, 0
+move the cube closer to my position, 0
+push the cube towards my location, 0
+advance the cube in my direction, 0
+move the cube forward towards my location, 0
+move backward, 1
+take a step back, 1
+go back, 1
+retreat, 1
+reverse, 1
+step back, 1
+move back, 1
+please move backward, 1
+I would like you to move backward, 1
+can you go back, 1
+please retreat, 1
+move in the opposite direction, 1
+walk backward, 1
+take a step in reverse, 1
+move away from me, 1
+back up, 1
+head back, 1
+make your way backward, 1
+proceed in reverse, 1
+move in the opposite way, 1
+please move back, 1
+I need you to go back, 1
+can you step back, 1
+please reverse, 1
+move in the backward direction, 1
+walk in reverse, 1
+take a step away, 1
+move away, 1
+please back up, 1
+I would like you to retreat, 1
+can you move back, 1
+please head back, 1
+move in the opposite direction from me, 1
+walk in the opposite direction, 1
+take a step back from here, 1
+move away from this spot, 1
+back away, 1
+head in the opposite direction, 1
+make your way back, 1
+proceed in the opposite direction, 1
+move in the reverse direction, 1
+please move away, 1
+I need you to move back, 1
+can you go backward, 1
+please step in reverse, 1
+move in the opposite direction from here, 1
+walk back, 1
+take a step in the opposite direction, 1
+move away from this place, 1
+back off, 1
+head in the reverse direction, 1
+make your way in reverse, 1
+proceed in the backward direction, 1
+move in the opposite way from here, 1
+please move in reverse, 1
+I would like you to go back, 1
+can you move backward, 1
+please step away, 1
+move in the opposite direction from this spot, 1
+walk in the opposite way, 1
+take a step back from this place, 1
+move away from this location, 1
+back down, 1
+head in the opposite way, 1
+make your way backward from here, 1
+proceed in the reverse direction, 1
+move in the opposite direction from this place, 1
+please move in the opposite direction, 1
+I need you to retreat, 1
+can you go in reverse, 1
+please step back from here, 1
+move in the opposite direction from this location, 1
+walk in the reverse direction, 1
+take a step back from this spot, 1
+move away from this area, 1
+back out, 1
+head in the opposite direction from here, 1
+make your way back from this place, 1
+proceed in the opposite way, 1
+move in the reverse direction from here, 1
+please move in the opposite way, 1
+I would like you to move back, 1
+can you go backward from here, 1
+please step in the opposite direction, 1
+move in the opposite direction from this area, 1
+walk in the opposite direction from here, 1
+take a step back from this location, 1
+move away from this point, 1
+backtrack, 1
+head in the reverse way, 1
+make your way in the opposite direction, 1
+proceed in the backward way, 1
+move in the opposite direction from this point, 1
+please move in the reverse way, 1
+I need you to go back, 1
+can you move in reverse, 1
+please step back from this place, 1
+move in the opposite direction from this point, 1
+walk in the opposite way from here, 1
+take a step back from this area, 1
+move away from this position, 1
+backpedal, 1
+head in the opposite direction from this spot, 1
+make your way back from this location, 1
+proceed in the reverse way, 1
+move in the opposite direction from this position, 1
+please move in the opposite direction from here, 1
+I would like you to retreat from here, 1
+can you go in the opposite direction, 1
+please step back from this spot, 1
+move in the opposite direction from this position, 1
+walk in the reverse way, 1
+take a step back from this point, 1
+move away from this place, 1
+back away from here, 1
+head in the opposite direction from this place, 1
+make your way in the opposite direction from here, 1
+proceed in the backward direction from here, 1
+move in the opposite direction from this area, 1
+please move in the reverse direction from here, 1
+I need you to move in the opposite direction, 1
+can you go backward from this place, 1
+please step in the opposite direction from here, 1
+move in the opposite direction from this spot, 1
+walk in the opposite direction from this place, 1
+take a step back from this area, 1
+move away from this location, 1
+back off from here, 1
+head in the opposite direction from this location, 1
+make your way back from this spot, 1
+proceed in the opposite way from here, 1
+move in the reverse direction from this place, 1
+please move in the opposite way from here, 1
+I would like you to move back from here, 1
+can you go backward from this location, 1
+please step in the opposite direction from this place, 1
+move in the opposite direction from this spot, 1
+walk in the opposite way from this place, 1
+take a step back from this location, 1
+move away from this point, 1
+back down from here, 1
+head in the reverse direction from this place, 1
+make your way in the opposite direction from this spot, 1
+proceed in the backward way from here, 1
+move in the opposite direction from this point, 1
+please move in the reverse way from here, 1
+I need you to go back from here, 1
+can you move in reverse from this place, 1
+please step back from this location, 1
+move in the opposite direction from this point, 1
+walk in the opposite way from this spot, 1
+take a step back from this area, 1
+move away from this position, 1
+backtrack from here, 1
+head in the opposite direction from this point, 1
+make your way back from this location, 1
+proceed in the reverse way from here, 1
+move in the opposite direction from this position, 1
+please move in the opposite direction from this place, 1
+I would like you to retreat from this place, 1
+can you go in the opposite direction from here, 1
+please step back from this point, 1
+move in the opposite direction from this position, 1
+walk in the reverse way from this place, 1
+take a step back from this spot, 1
+move away from this place, 1
+backpedal from here, 1
+head in the opposite direction from this location, 1
+make your way in the opposite direction from this point, 1
+proceed in the backward direction from this place, 1
+move in the opposite direction from this area, 1
+move the cube backward, 1
+pull the cube back, 1
+retract the cube, 1
+bring the cube away from me, 1
+move the cube in the opposite direction, 1
+shift the cube backward, 1
+please move the cube backward, 1
+I would like you to move the cube backward, 1
+can you pull the cube back, 1
+please retract the cube, 1
+move the cube straight back, 1
+bring the cube further from me, 1
+move the cube away from my position, 1
+pull the cube in the opposite direction, 1
+retract the cube away from me, 1
+move the cube directly backward, 1
+please bring the cube backward, 1
+I need you to move the cube backward, 1
+can you retract the cube, 1
+please pull the cube back, 1
+move the cube away from me, 1
+bring the cube in the opposite direction, 1
+move the cube further away, 1
+pull the cube away from my location, 1
+retract the cube straight back, 1
+move the cube directly away from me, 1
+please move the cube in the opposite direction, 1
+I would like you to bring the cube backward, 1
+can you move the cube back, 1
+please retract the cube away from me, 1
+move the cube straight away from my position, 1
+bring the cube directly away from me, 1
+move the cube further from my location, 1
+pull the cube directly backward, 1
+retract the cube away from my location, 1
+move the cube in a backward direction, 1
+please bring the cube further away, 1
+I need you to pull the cube back, 1
+can you move the cube away from me, 1
+please retract the cube straight back, 1
+move the cube directly in the opposite direction, 1
+bring the cube straight away from me, 1
+move the cube further from my position, 1
+pull the cube away from my position, 1
+retract the cube directly backward, 1
+move the cube in the opposite direction, 1
+please bring the cube away from me, 1
+I would like you to move the cube further away, 1
+can you pull the cube towards the back, 1
+please retract the cube directly away from me, 1
+move the cube straight away from my location, 1
+bring the cube directly in the opposite direction, 1
+move the cube further from my direction, 1
+pull the cube away from my direction, 1
+retract the cube in the opposite direction, 1
+move the cube backward towards me, 1
+please bring the cube directly backward, 1
+I need you to move the cube away from my position, 1
+can you retract the cube away from my location, 1
+please pull the cube directly away from me, 1
+move the cube straight away from my direction, 1
+bring the cube directly in the opposite direction, 1
+move the cube further from my location, 1
+pull the cube away from my position, 1
+retract the cube in the opposite direction, 1
+move the cube backward towards my location, 1
+please bring the cube directly away from my location, 1
+I would like you to move the cube away from my direction, 1
+can you pull the cube towards the back, 1
+please retract the cube directly towards me, 1
+move the cube straight away from my direction, 1
+bring the cube directly in the opposite direction, 1
+move the cube further from my position, 1
+pull the cube away from my direction, 1
+retract the cube in the opposite direction, 1
+move the cube backward towards my direction, 1
+please bring the cube directly towards my direction, 1
+I need you to move the cube away from my location, 1
+can you retract the cube away from my position, 1
+please pull the cube directly away from my location, 1
+move the cube straight away from my position, 1
+bring the cube directly in the opposite direction, 1
+move the cube further from my direction, 1
+pull the cube away from my location, 1
+retract the cube in the opposite direction, 1
+move the cube backward towards my position, 1
+please bring the cube directly away from my position, 1
+I would like you to move the cube away from my location, 1
+can you pull the cube towards the back, 1
+please retract the cube directly towards my location, 1
+move the cube straight away from my direction, 1
+bring the cube directly in the opposite direction, 1
+move the cube further from my position, 1
+pull the cube away from my direction, 1
+retract the cube in the opposite direction, 1
+move the cube backward towards my direction, 1
+please bring the cube directly towards my direction, 1
+I need you to move the cube away from my position, 1
+can you retract the cube away from my location, 1
+please pull the cube directly away from my position, 1
+move the cube straight away from my location, 1
+bring the cube directly in the opposite direction, 1
+move the cube further from my direction, 1
+pull the cube away from my location, 1
+retract the cube in the opposite direction, 1
+move the cube backward towards my position, 1
+please bring the cube directly away from my position, 1
+I would like you to move the cube away from my location, 1
+can you pull the cube towards the back, 1
+please retract the cube directly towards my location, 1
+move the cube straight away from my direction, 1
+bring the cube directly in the opposite direction, 1
+move the cube further from my position, 1
+pull the cube away from my direction, 1
+retract the cube in the opposite direction, 1
+move the cube backward towards my direction, 1
+please bring the cube directly towards my direction, 1
+I need you to move the cube away from my position, 1
+can you retract the cube away from my location, 1
+please pull the cube directly away from my position, 1
+move the cube straight away from my location, 1
+bring the cube directly in the opposite direction, 1
+move the cube further from my direction, 1
+pull the cube away from my location, 1
+retract the cube in the opposite direction, 1
+move the cube backward towards my position, 1
+please bring the cube directly away from my position, 1
+I would like you to move the cube away from my location, 1
+can you pull the cube towards the back, 1
+please retract the cube directly towards my location, 1
+move the cube straight away from my direction, 1
+bring the cube directly in the opposite direction, 1
+move the cube further from my position, 1
+pull the cube away from my direction, 1
+retract the cube in the opposite direction, 1
+move the cube backward towards my direction, 1
+please bring the cube directly towards my direction, 1
+I need you to move the cube away from my position, 1
+can you retract the cube away from my location, 1
+please pull the cube directly away from my position, 1
+move the cube straight away from my location, 1
+bring the cube directly in the opposite direction, 1
+move the cube further from my direction, 1
+pull the cube away from my location, 1
+retract the cube in the opposite direction, 1
+move the cube backward towards my position, 1
+please bring the cube directly away from my position, 1
+I would like you to move the cube away from my location, 1
+move right, 2
+go right, 2
+turn right, 2
+shift right, 2
+move to the right, 2
+veer right, 2
+please move right, 2
+I would like you to move right, 2
+can you go right, 2
+please turn right, 2
+move in the right direction, 2
+walk right, 2
+take a step to the right, 2
+move towards the right, 2
+head right, 2
+make your way right, 2
+proceed to the right, 2
+move in the rightward direction, 2
+please move to the right, 2
+I need you to go right, 2
+can you step right, 2
+please shift right, 2
+move in the right-hand direction, 2
+walk to the right, 2
+take a step in the right direction, 2
+move towards the right side, 2
+head to the right, 2
+make your way to the right, 2
+proceed in the right direction, 2
+move in the rightward way, 2
+please move towards the right, 2
+I would like you to go right, 2
+can you move right, 2
+please step to the right, 2
+move in the right-hand way, 2
+walk in the right direction, 2
+take a step towards the right, 2
+move towards the right-hand side, 2
+head in the right direction, 2
+make your way in the right direction, 2
+proceed in the rightward direction, 2
+move in the rightward direction from here, 2
+please move in the right direction, 2
+I need you to move right, 2
+can you go in the right direction, 2
+please step in the right direction, 2
+move in the right-hand direction from here, 2
+walk in the rightward direction, 2
+take a step towards the right side, 2
+move towards the right-hand direction, 2
+head in the rightward direction, 2
+make your way in the rightward direction, 2
+proceed in the right-hand direction, 2
+move in the rightward way from here, 2
+please move towards the right side, 2
+I would like you to move to the right, 2
+can you go right from here, 2
+please step in the rightward direction, 2
+move in the right-hand way from here, 2
+walk in the rightward direction from here, 2
+take a step towards the right-hand side, 2
+move towards the right-hand way, 2
+head in the rightward direction from here, 2
+make your way in the right-hand direction, 2
+proceed in the rightward direction from here, 2
+move in the rightward direction from this spot, 2
+please move in the right-hand direction, 2
+I need you to go right from here, 2
+can you move in the right direction, 2
+please step in the right-hand direction, 2
+move in the right-hand direction from this spot, 2
+walk in the rightward direction from this spot, 2
+take a step towards the right-hand direction, 2
+move towards the right-hand direction from here, 2
+head in the rightward direction from this spot, 2
+make your way in the right-hand direction from here, 2
+proceed in the rightward direction from this spot, 2
+move in the rightward direction from this place, 2
+please move in the right-hand direction from here, 2
+I would like you to go right from this spot, 2
+can you go in the right direction from here, 2
+please step in the right-hand direction from here, 2
+move in the right-hand direction from this place, 2
+walk in the rightward direction from this place, 2
+take a step towards the right-hand direction from here, 2
+move towards the right-hand direction from this spot, 2
+head in the rightward direction from this place, 2
+make your way in the right-hand direction from this spot, 2
+proceed in the rightward direction from this place, 2
+move in the rightward direction from this location, 2
+please move in the right-hand direction from this place, 2
+I need you to move right from this spot, 2
+can you go in the right direction from this spot, 2
+please step in the right-hand direction from this spot, 2
+move in the right-hand direction from this location, 2
+walk in the rightward direction from this location, 2
+take a step towards the right-hand direction from this spot, 2
+move towards the right-hand direction from this place, 2
+head in the rightward direction from this location, 2
+make your way in the right-hand direction from this place, 2
+proceed in the rightward direction from this location, 2
+move in the rightward direction from this area, 2
+please move in the right-hand direction from this location, 2
+I would like you to go right from this place, 2
+can you go in the right direction from this location, 2
+please step in the right-hand direction from this place, 2
+move in the right-hand direction from this area, 2
+walk in the rightward direction from this area, 2
+take a step towards the right-hand direction from this location, 2
+move towards the right-hand direction from this area, 2
+head in the rightward direction from this area, 2
+make your way in the right-hand direction from this location, 2
+proceed in the rightward direction from this area, 2
+move in the rightward direction from this point, 2
+please move in the right-hand direction from this area, 2
+I need you to go right from this location, 2
+can you go in the right direction from this area, 2
+please step in the right-hand direction from this location, 2
+move in the right-hand direction from this point, 2
+walk in the rightward direction from this point, 2
+take a step towards the right-hand direction from this area, 2
+move towards the right-hand direction from this point, 2
+head in the rightward direction from this point, 2
+make your way in the right-hand direction from this area, 2
+proceed in the rightward direction from this point, 2
+move in the rightward direction from this spot, 2
+please move in the right-hand direction from this point, 2
+I would like you to go right from this area, 2
+can you go in the right direction from this point, 2
+please step in the right-hand direction from this area, 2
+move in the right-hand direction from this spot, 2
+walk in the rightward direction from this spot, 2
+take a step towards the right-hand direction from this point, 2
+move towards the right-hand direction from this spot, 2
+head in the rightward direction from this spot, 2
+make your way in the right-hand direction from this point, 2
+proceed in the rightward direction from this spot, 2
+move in the rightward direction from this location, 2
+please move in the right-hand direction from this spot, 2
+I need you to go right from this area, 2
+can you go in the right direction from this spot, 2
+please step in the right-hand direction from this spot, 2
+move in the right-hand direction from this location, 2
+walk in the rightward direction from this location, 2
+take a step towards the right-hand direction from this spot, 2
+move towards the right-hand direction from this location, 2
+head in the rightward direction from this location, 2
+make your way in the right, 2
+move the cube to the right, 2
+push the cube to the right, 2
+shift the cube right, 2
+slide the cube to the right, 2
+move the cube towards the right, 2
+turn the cube to the right, 2
+please move the cube to the right, 2
+I would like you to move the cube to the right, 2
+can you push the cube to the right, 2
+please shift the cube right, 2
+move the cube in the right direction, 2
+slide the cube towards the right, 2
+move the cube to the right side, 2
+push the cube towards the right, 2
+shift the cube to the right side, 2
+move the cube directly to the right, 2
+please slide the cube to the right, 2
+I need you to move the cube to the right, 2
+can you shift the cube right, 2
+please push the cube to the right, 2
+move the cube towards the right side, 2
+slide the cube in the right direction, 2
+move the cube further to the right, 2
+push the cube to the right direction, 2
+shift the cube directly to the right, 2
+move the cube in a rightward direction, 2
+please move the cube towards the right, 2
+I would like you to slide the cube to the right, 2
+can you move the cube right, 2
+please shift the cube towards the right, 2
+move the cube directly towards the right, 2
+slide the cube to the right side, 2
+move the cube further towards the right, 2
+push the cube in the right direction, 2
+shift the cube towards the right side, 2
+move the cube in a rightward direction from here, 2
+please move the cube in the right direction, 2
+I need you to push the cube to the right, 2
+can you slide the cube towards the right, 2
+please shift the cube directly to the right, 2
+move the cube towards the right direction, 2
+slide the cube directly to the right, 2
+move the cube further to the right side, 2
+push the cube towards the right direction, 2
+shift the cube in the right direction, 2
+move the cube in the rightward direction, 2
+please move the cube to the right side, 2
+I would like you to push the cube towards the right, 2
+can you move the cube towards the right, 2
+please shift the cube in the right direction, 2
+move the cube directly towards the right side, 2
+slide the cube in the rightward direction, 2
+move the cube further towards the right side, 2
+push the cube in the rightward direction, 2
+shift the cube towards the right direction, 2
+move the cube in a rightward direction from here, 2
+please move the cube in the rightward direction, 2
+I need you to slide the cube to the right, 2
+can you push the cube towards the right, 2
+please shift the cube directly towards the right, 2
+move the cube towards the right side, 2
+slide the cube directly towards the right, 2
+move the cube further towards the right direction, 2
+push the cube towards the right side, 2
+shift the cube in the rightward direction, 2
+move the cube in the right direction from here, 2
+please move the cube to the right direction, 2
+I would like you to shift the cube towards the right, 2
+can you move the cube towards the right side, 2
+please push the cube in the right direction, 2
+move the cube directly towards the right direction, 2
+slide the cube in the right direction, 2
+move the cube further towards the right side, 2
+push the cube in the rightward direction, 2
+shift the cube towards the right side, 2
+move the cube in a rightward direction from here, 2
+please move the cube in the right direction from here, 2
+I need you to push the cube towards the right side, 2
+can you slide the cube towards the right direction, 2
+please shift the cube directly towards the right side, 2
+move the cube towards the right direction from here, 2
+slide the cube directly towards the right direction, 2
+move the cube further towards the right direction, 2
+push the cube towards the right direction, 2
+shift the cube in the right direction from here, 2
+move the cube in the rightward direction from this spot, 2
+please move the cube to the right direction from here, 2
+I would like you to push the cube towards the right direction, 2
+can you move the cube towards the right direction, 2
+please shift the cube in the right direction from here, 2
+move the cube directly towards the right direction from here, 2
+slide the cube in the right direction from here, 2
+move the cube further towards the right direction from here, 2
+push the cube in the rightward direction from here, 2
+shift the cube towards the right direction from here, 2
+move the cube in a rightward direction from this spot, 2
+please move the cube in the right direction from this spot, 2
+I need you to push the cube towards the right direction from here, 2
+can you slide the cube towards the right direction from here, 2
+please shift the cube directly towards the right direction from here, 2
+move the cube towards the right direction from this spot, 2
+slide the cube directly towards the right direction from this spot, 2
+move the cube further towards the right direction from this spot, 2
+push the cube towards the right direction from this spot, 2
+shift the cube in the right direction from this spot, 2
+move the cube in the rightward direction from this place, 2
+please move the cube to the right direction from this spot, 2
+I would like you to push the cube towards the right direction from this spot, 2
+can you move the cube towards the right direction from this spot, 2
+please shift the cube in the right direction from this spot, 2
+move the cube directly towards the right direction from this place, 2
+slide the cube in the right direction from this place, 2
+move the cube further towards the right direction from this place, 2
+push the cube in the rightward direction from this place, 2
+shift the cube towards the right direction from this place, 2
+move the cube in a rightward direction from this location, 2
+please move the cube in the right direction from this place, 2
+I need you to push the cube towards the right direction from this place, 2
+can you slide the cube towards the right direction from this place, 2
+please shift the cube directly towards the right direction from this place, 2
+move the cube towards the right direction from this location, 2
+slide the cube directly towards the right direction from this location, 2
+move the cube further towards the right direction from this location, 2
+push the cube towards the right direction from this location, 2
+shift the cube in the right direction from this location, 2
+move the cube in the rightward direction from this area, 2
+please move the cube to the right direction from this location, 2
+I would like you to push the cube towards the right direction from this location, 2
+can you move the cube towards the right direction from this location, 2
+please shift the cube in the right direction from this location, 2
+move the cube directly towards the right direction from this area, 2
+slide the cube in the right direction from this area, 2
+move the cube further towards the right direction from this area, 2
+push the cube in the rightward direction from this area, 2
+shift the cube towards the right direction, 2
+move left, 3
+go left, 3
+turn left, 3
+shift left, 3
+move to the left, 3
+veer left, 3
+please move left, 3
+I would like you to move left, 3
+can you go left, 3
+please turn left, 3
+move in the left direction, 3
+walk left, 3
+take a step to the left, 3
+move towards the left, 3
+head left, 3
+make your way left, 3
+proceed to the left, 3
+move in the leftward direction, 3
+please move to the left, 3
+I need you to go left, 3
+can you step left, 3
+please shift left, 3
+move in the left-hand direction, 3
+walk to the left, 3
+take a step in the left direction, 3
+move towards the left side, 3
+head to the left, 3
+make your way to the left, 3
+proceed in the left direction, 3
+move in the leftward way, 3
+please move towards the left, 3
+I would like you to go left, 3
+can you move left, 3
+please step to the left, 3
+move in the left-hand way, 3
+walk in the left direction, 3
+take a step towards the left, 3
+move towards the left-hand side, 3
+head in the left direction, 3
+make your way in the left direction, 3
+proceed in the leftward direction, 3
+move in the leftward direction from here, 3
+please move in the left direction, 3
+I need you to move left, 3
+can you go in the left direction, 3
+please step in the left direction, 3
+move in the left-hand direction from here, 3
+walk in the leftward direction, 3
+take a step towards the left side, 3
+move towards the left-hand direction, 3
+head in the leftward direction, 3
+make your way in the leftward direction, 3
+proceed in the left-hand direction, 3
+move in the leftward way from here, 3
+please move towards the left side, 3
+I would like you to move to the left, 3
+can you go left from here, 3
+please step in the leftward direction, 3
+move in the left-hand way from here, 3
+walk in the leftward direction from here, 3
+take a step towards the left-hand side, 3
+move towards the left-hand way, 3
+head in the leftward direction from here, 3
+make your way in the left-hand direction, 3
+proceed in the leftward direction from here, 3
+move in the leftward direction from this spot, 3
+please move in the left-hand direction, 3
+I need you to go left from here, 3
+can you move in the left direction, 3
+please step in the left-hand direction, 3
+move in the left-hand direction from this spot, 3
+walk in the leftward direction from this spot, 3
+take a step towards the left-hand direction, 3
+move towards the left-hand direction from here, 3
+head in the leftward direction from this spot, 3
+make your way in the left-hand direction from here, 3
+proceed in the leftward direction from this spot, 3
+move in the leftward direction from this place, 3
+please move in the left-hand direction from here, 3
+I would like you to go left from this spot, 3
+can you go in the left direction from here, 3
+please step in the left-hand direction from here, 3
+move in the left-hand direction from this place, 3
+walk in the leftward direction from this place, 3
+take a step towards the left-hand direction from here, 3
+move towards the left-hand direction from this spot, 3
+head in the leftward direction from this place, 3
+make your way in the left-hand direction from this spot, 3
+proceed in the leftward direction from this place, 3
+move in the leftward direction from this location, 3
+please move in the left-hand direction from this place, 3
+I need you to move left from this spot, 3
+can you go in the left direction from this spot, 3
+please step in the left-hand direction from this spot, 3
+move in the left-hand direction from this location, 3
+walk in the leftward direction from this location, 3
+take a step towards the left-hand direction from this spot, 3
+move towards the left-hand direction from this place, 3
+head in the leftward direction from this location, 3
+make your way in the left-hand direction from this place, 3
+proceed in the leftward direction from this location, 3
+move in the leftward direction from this area, 3
+please move in the left-hand direction from this location, 3
+I would like you to go left from this place, 3
+can you go in the left direction from this location, 3
+please step in the left-hand direction from this place, 3
+move in the left-hand direction from this area, 3
+walk in the leftward direction from this area, 3
+take a step towards the left-hand direction from this location, 3
+move towards the left-hand direction from this area, 3
+head in the leftward direction from this area, 3
+make your way in the left-hand direction from this location, 3
+proceed in the leftward direction from this area, 3
+move in the leftward direction from this point, 3
+please move in the left-hand direction from this area, 3
+I need you to go left from this location, 3
+can you go in the left direction from this area, 3
+please step in the left-hand direction from this location, 3
+move in the left-hand direction from this point, 3
+walk in the leftward direction from this point, 3
+take a step towards the left-hand direction from this area, 3
+move towards the left-hand direction from this point, 3
+head in the leftward direction from this point, 3
+make your way in the left-hand direction from this area, 3
+proceed in the leftward direction from this point, 3
+move in the leftward direction from this spot, 3
+please move in the left-hand direction from this point, 3
+I would like you to go left from this area, 3
+can you go in the left direction from this point, 3
+please step in the left-hand direction from this area, 3
+move in the left-hand direction from this spot, 3
+walk in the leftward direction from this spot, 3
+take a step towards the left-hand direction from this point, 3
+move towards the left-hand direction from this spot, 3
+head in the leftward direction from this spot, 3
+make your way in the left-hand direction from this point, 3
+proceed in the leftward direction from this spot, 3
+move in the leftward direction from this location, 3
+please move in the left-hand direction from this spot, 3
+I need you to go left from this area, 3
+can you go in the left direction from this spot, 3
+please step in the left-hand direction from this spot, 3
+move in the left-hand direction from this location, 3
+walk in the leftward direction from this location, 3
+take a step towards the left-hand direction from this spot, 3
+move towards the left-hand direction from this location, 3
+head in the leftward direction from this location, 3
+make your way in the left, 3
+move the cube to the left, 3
+push the cube to the left, 3
+shift the cube left, 3
+slide the cube to the left, 3
+move the cube towards the left, 3
+turn the cube to the left, 3
+please move the cube to the left, 3
+I would like you to move the cube to the left, 3
+can you push the cube to the left, 3
+please shift the cube left, 3
+move the cube in the left direction, 3
+slide the cube towards the left, 3
+move the cube to the left side, 3
+push the cube towards the left, 3
+shift the cube to the left side, 3
+move the cube directly to the left, 3
+please slide the cube to the left, 3
+I need you to move the cube to the left, 3
+can you shift the cube left, 3
+please push the cube to the left, 3
+move the cube towards the left side, 3
+slide the cube in the left direction, 3
+move the cube further to the left, 3
+push the cube to the left direction, 3
+shift the cube directly to the left, 3
+move the cube in a leftward direction, 3
+please move the cube towards the left, 3
+I would like you to slide the cube to the left, 3
+can you move the cube left, 3
+please shift the cube towards the left, 3
+move the cube directly towards the left, 3
+slide the cube to the left side, 3
+move the cube further towards the left, 3
+push the cube in the left direction, 3
+shift the cube towards the left side, 3
+move the cube in a leftward direction from here, 3
+please move the cube in the left direction, 3
+I need you to push the cube to the left, 3
+can you slide the cube towards the left, 3
+please shift the cube directly to the left, 3
+move the cube towards the left direction, 3
+slide the cube directly to the left, 3
+move the cube further to the left side, 3
+push the cube towards the left direction, 3
+shift the cube in the left direction, 3
+move the cube in the leftward direction, 3
+please move the cube to the left side, 3
+I would like you to push the cube towards the left, 3
+can you move the cube towards the left, 3
+please shift the cube in the left direction, 3
+move the cube directly towards the left side, 3
+slide the cube in the leftward direction, 3
+move the cube further towards the left side, 3
+push the cube in the leftward direction, 3
+shift the cube towards the left direction, 3
+move the cube in a leftward direction from here, 3
+please move the cube in the leftward direction, 3
+I need you to slide the cube to the left, 3
+can you push the cube towards the left, 3
+please shift the cube directly towards the left, 3
+move the cube towards the left side, 3
+slide the cube directly towards the left, 3
+move the cube further towards the left direction, 3
+push the cube towards the left side, 3
+shift the cube in the leftward direction, 3
+move the cube in the left direction from here, 3
+please move the cube to the left direction, 3
+I would like you to shift the cube towards the left, 3
+can you move the cube towards the left side, 3
+please push the cube in the left direction, 3
+move the cube directly towards the left direction, 3
+slide the cube in the left direction, 3
+move the cube further towards the left side, 3
+push the cube in the leftward direction, 3
+shift the cube towards the left side, 3
+move the cube in a leftward direction from here, 3
+please move the cube in the left direction from here, 3
+I need you to push the cube towards the left side, 3
+can you slide the cube towards the left direction, 3
+please shift the cube directly towards the left side, 3
+move the cube towards the left direction from here, 3
+slide the cube directly towards the left direction, 3
+move the cube further towards the left direction, 3
+push the cube towards the left direction, 3
+shift the cube in the left direction from here, 3
+move the cube in the leftward direction from this spot, 3
+please move the cube to the left direction from here, 3
+I would like you to push the cube towards the left direction, 3
+can you move the cube towards the left direction, 3
+please shift the cube in the left direction from here, 3
+move the cube directly towards the left direction from here, 3
+slide the cube in the left direction from here, 3
+move the cube further towards the left direction from here, 3
+push the cube in the leftward direction from here, 3
+shift the cube towards the left direction from here, 3
+move the cube in a leftward direction from this spot, 3
+please move the cube in the left direction from this spot, 3
+I need you to push the cube towards the left direction from here, 3
+can you slide the cube towards the left direction from here, 3
+please shift the cube directly towards the left direction from here, 3
+move the cube towards the left direction from this spot, 3
+slide the cube directly towards the left direction from this spot, 3
+move the cube further towards the left direction from this spot, 3
+push the cube towards the left direction from this spot, 3
+shift the cube in the left direction from this spot, 3
+move the cube in the leftward direction from this place, 3
+please move the cube to the left direction from this spot, 3
+I would like you to push the cube towards the left direction from this spot, 3
+can you move the cube towards the left direction from this spot, 3
+please shift the cube in the left direction from this spot, 3
+move the cube directly towards the left direction from this place, 3
+slide the cube in the left direction from this place, 3
+move the cube further towards the left direction from this place, 3
+push the cube in the leftward direction from this place, 3
+shift the cube towards the left direction from this place, 3
+move the cube in a leftward direction from this location, 3
+please move the cube in the left direction from this place, 3
+I need you to push the cube towards the left direction from this place, 3
+can you slide the cube towards the left direction from this place, 3
+please shift the cube directly towards the left direction from this place, 3
+move the cube towards the left direction from this location, 3
+slide the cube directly towards the left direction from this location, 3
+move the cube further towards the left direction from this location, 3
+push the cube towards the left direction from this location, 3
+shift the cube in the left direction from this location, 3
+move the cube in the leftward direction from this area, 3
+please move the cube to the left direction from this location, 3
+I would like you to push the cube towards the left direction from this location, 3
+can you move the cube towards the left direction from this location, 3
+please shift the cube in the left direction from this location, 3
+move the cube directly towards the left direction from this area, 3
+slide the cube in the left direction from this area, 3
+move the cube further towards the left direction from this area, 3
+push the cube in the leftward direction from this area, 3
+shift the cube towards the left direction, 3
+move up, 4
+go up, 4
+ascend, 4
+rise, 4
+pick up the cube, 4
+elevate, 4
+climb, 4
+move higher, 4
+please move up, 4
+I would like you to move up, 4
+can you go up, 4
+please ascend, 4
+move in the upward direction, 4
+walk up, 4
+take a step up, 4
+move towards the top, 4
+head up, 4
+make your way up, 4
+proceed to the top, 4
+move in the upward way, 4
+please move to the top, 4
+I need you to go up, 4
+can you step up, 4
+please elevate, 4
+move in the upward direction from here, 4
+walk to the top, 4
+take a step in the upward direction, 4
+move towards the higher position, 4
+head to the top, 4
+make your way to the top, 4
+proceed in the upward direction, 4
+move in the upward direction from this spot, 4
+please move in the upward direction, 4
+I would like you to go up, 4
+can you move up, 4
+please step to the top, 4
+move in the upward way from here, 4
+walk in the upward direction, 4
+take a step towards the top, 4
+move towards the higher level, 4
+head in the upward direction, 4
+make your way in the upward direction, 4
+proceed in the upward way, 4
+move in the upward direction from this place, 4
+please move towards the top, 4
+I need you to move up, 4
+can you go in the upward direction, 4
+please step in the upward direction, 4
+move in the upward direction from this place, 4
+walk in the upward way, 4
+take a step towards the higher position, 4
+move towards the higher direction, 4
+head in the upward way, 4
+make your way in the upward way, 4
+proceed in the upward direction from here, 4
+move in the upward direction from this location, 4
+please move in the upward way, 4
+I would like you to move up from here, 4
+can you go up from here, 4
+please step in the upward way, 4
+move in the upward direction from this location, 4
+walk in the upward direction from here, 4
+take a step towards the higher level, 4
+move towards the higher direction from here, 4
+head in the upward direction from here, 4
+make your way in the upward direction from here, 4
+proceed in the upward way from here, 4
+move in the upward direction from this area, 4
+please move in the upward direction from here, 4
+I need you to go up from here, 4
+can you move in the upward direction, 4
+please step in the upward direction from here, 4
+move in the upward direction from this area, 4
+walk in the upward way from here, 4
+take a step towards the higher direction, 4
+move towards the higher direction from this spot, 4
+head in the upward direction from this spot, 4
+make your way in the upward direction from this spot, 4
+proceed in the upward way from this spot, 4
+move in the upward direction from this point, 4
+please move in the upward direction from this spot, 4
+I would like you to go up from this spot, 4
+can you go in the upward direction from this spot, 4
+please step in the upward direction from this spot, 4
+move in the upward direction from this point, 4
+walk in the upward way from this spot, 4
+take a step towards the higher direction from this spot, 4
+move towards the higher direction from this point, 4
+head in the upward direction from this point, 4
+make your way in the upward direction from this point, 4
+proceed in the upward way from this point, 4
+move in the upward direction from this location, 4
+please move in the upward direction from this point, 4
+I need you to move up from this spot, 4
+can you go in the upward direction from this point, 4
+please step in the upward direction from this point, 4
+move in the upward direction from this location, 4
+walk in the upward way from this point, 4
+take a step towards the higher direction from this point, 4
+move towards the higher direction from this location, 4
+head in the upward direction from this location, 4
+make your way in the upward direction from this location, 4
+proceed in the upward way from this location, 4
+move in the upward direction from this area, 4
+please move in the upward direction from this location, 4
+I would like you to go up from this location, 4
+can you go in the upward direction from this location, 4
+please step in the upward direction from this location, 4
+move in the upward direction from this area, 4
+walk in the upward way from this location, 4
+take a step towards the higher direction from this location, 4
+move towards the higher direction from this area, 4
+head in the upward direction from this area, 4
+make your way in the upward direction from this area, 4
+proceed in the upward way from this area, 4
+move in the upward direction from this point, 4
+please move in the upward direction from this area, 4
+I need you to go up from this location, 4
+can you go in the upward direction from this area, 4
+please step in the upward direction from this location, 4
+move in the upward direction from this point, 4
+walk in the upward way from this area, 4
+take a step towards the higher direction from this area, 4
+move towards the higher direction from this point, 4
+head in the upward direction from this point, 4
+make your way in the upward direction from this point, 4
+proceed in the upward way from this point, 4
+move in the upward direction from this spot, 4
+please move in the upward direction from this point, 4
+I would like you to go up from this area, 4
+can you go in the upward direction from this point, 4
+please step in the upward direction from this area, 4
+move in the upward direction from this spot, 4
+walk in the upward way from this spot, 4
+take a step towards the higher direction from this point, 4
+move towards the higher direction from this spot, 4
+head in the upward direction from this spot, 4
+make your way in the upward direction from this point, 4
+proceed in the upward way from this spot, 4
+move in the upward direction from this location, 4
+please move in the upward direction from this spot, 4
+I need you to go up from this area, 4
+can you go in the upward direction from this spot, 4
+please step in the upward direction from this spot, 4
+move in the upward direction from this location, 4
+walk in the upward way from this location, 4
+take a step towards the higher direction from this spot, 4
+move towards the higher direction from this location, 4
+head in the upward direction from this location, 4
+make your way in the upward direction from this location, 4
+proceed in the upward way from this location, 4
+move in the upward direction from this area, 4
+please move in the upward direction from this location, 4
+I would like you to go up from, 4
+move the cube up, 4
+lift the cube, 4
+raise the cube, 4
+elevate the cube, 4
+move the cube upwards, 4
+bring the cube up, 4
+please move the cube up, 4
+I would like you to lift the cube, 4
+can you raise the cube, 4
+please elevate the cube, 4
+move the cube straight up, 4
+bring the cube higher, 4
+move the cube to a higher position, 4
+lift the cube upwards, 4
+raise the cube up, 4
+move the cube directly up, 4
+please bring the cube up, 4
+I need you to move the cube up, 4
+can you elevate the cube, 4
+please lift the cube up, 4
+move the cube to a higher level, 4
+bring the cube upwards, 4
+move the cube further up, 4
+lift the cube to a higher position, 4
+raise the cube directly up, 4
+move the cube in an upward direction, 4
+please move the cube to a higher position, 4
+I would like you to bring the cube up, 4
+can you move the cube up, 4
+please elevate the cube upwards, 4
+move the cube straight upwards, 4
+bring the cube directly up, 4
+move the cube higher, 4
+lift the cube to a higher level, 4
+raise the cube in an upward direction, 4
+move the cube directly upwards, 4
+please bring the cube higher, 4
+I need you to lift the cube up, 4
+can you move the cube upwards, 4
+please elevate the cube straight up, 4
+move the cube directly in an upward direction, 4
+bring the cube straight up, 4
+move the cube to a higher level, 4
+lift the cube higher, 4
+raise the cube upwards, 4
+move the cube in an upward direction from here, 4
+please move the cube higher, 4
+I would like you to lift the cube upwards, 4
+can you bring the cube up, 4
+please elevate the cube directly up, 4
+move the cube to a higher position from here, 4
+bring the cube directly upwards, 4
+move the cube further upwards, 4
+lift the cube in an upward direction, 4
+raise the cube to a higher position, 4
+move the cube in an upward direction from this spot, 4
+please move the cube to a higher level, 4
+I need you to bring the cube higher, 4
+can you lift the cube up, 4
+please elevate the cube to a higher position, 4
+move the cube directly to a higher level, 4
+bring the cube in an upward direction, 4
+move the cube further up, 4
+lift the cube to a higher level, 4
+raise the cube directly upwards, 4
+move the cube in an upward direction from this place, 4
+please move the cube to a higher level from here, 4
+I would like you to bring the cube up, 4
+can you move the cube to a higher position, 4
+please elevate the cube in an upward direction, 4
+move the cube directly to a higher position, 4
+bring the cube in an upward direction from here, 4
+move the cube further upwards from here, 4
+lift the cube to a higher position from here, 4
+raise the cube in an upward direction from here, 4
+move the cube in an upward direction from this location, 4
+please move the cube to a higher level from this spot, 4
+I need you to bring the cube higher from here, 4
+can you lift the cube upwards, 4
+please elevate the cube to a higher level, 4
+move the cube directly to a higher position from here, 4
+bring the cube in an upward direction from this spot, 4
+move the cube further up from here, 4
+lift the cube to a higher level from here, 4
+raise the cube directly upwards from here, 4
+move the cube in an upward direction from this area, 4
+please move the cube to a higher level from this place, 4
+I would like you to bring the cube up from here, 4
+can you move the cube to a higher position from here, 4
+please elevate the cube in an upward direction from here, 4
+move the cube directly to a higher position from this spot, 4
+bring the cube in an upward direction from this place, 4
+move the cube further upwards from this spot, 4
+lift the cube to a higher position from this spot, 4
+raise the cube in an upward direction from this spot, 4
+move the cube in an upward direction from this point, 4
+please move the cube to a higher level from this location, 4
+I need you to bring the cube higher from this spot, 4
+can you lift the cube upwards from here, 4
+please elevate the cube to a higher level from here, 4
+move the cube directly to a higher position from this place, 4
+bring the cube in an upward direction from this area, 4
+move the cube further up from this spot, 4
+lift the cube to a higher level from this place, 4
+raise the cube directly upwards from this spot, 4
+move the cube in an upward direction from this area, 4
+please move the cube to a higher level from this point, 4
+I would like you to bring the cube up from this spot, 4
+can you move the cube to a higher position from this spot, 4
+please elevate the cube in an upward direction from this spot, 4
+move the cube directly to a higher position from this point, 4
+bring the cube in an upward direction from this location, 4
+move the cube further upwards from this point, 4
+lift the cube to a higher position from this point, 4
+raise the cube in an upward direction from this point, 4
+move the cube in an upward direction from this location, 4
+please move the cube to a higher level from this area, 4
+I need you to bring the cube higher from this point, 4
+can you lift the cube upwards from this spot, 4
+please elevate the cube to a higher level from this spot, 4
+move the cube directly to a higher position from this area, 4
+bring the cube in an upward direction from this point, 4
+move the cube further up from this point, 4
+lift the cube to a higher level from this area, 4
+raise the cube directly upwards from this point, 4
+move the cube in an upward direction from this area, 4
+please move the cube to a higher level from this location, 4
+I would like you to bring the cube up from this point, 4
+can you move the cube to a higher position from this point, 4
+please elevate the cube in an upward direction from this point, 4
+move the cube directly to a higher position from this area, 4
+bring the cube in an upward direction from this location, 4
+move the cube further upwards from this area, 4
+lift the cube to a higher position from this area, 4
+raise the cube in an upward direction from this area, 4
+move the cube in an upward direction from this point, 4
+please move the cube to a higher level from this location, 4
+I need you to bring the cube higher from this area, 4
+can you lift the cube upwards from this point, 4
+please elevate the cube to a higher level from this point, 4
+move the cube directly to a higher position from this location, 4
+bring the cube in an upward direction from this area, 4
+move the cube further up from this area, 4
+place the cube on the table, 5
+rotate the cube, 5
+wave hello, 5
+shake hands, 5
+grab the pen, 5
+drop the pen, 5
+press the button, 5
+turn the knob, 5
+flip the switch, 5
+open the door, 5
+close the door, 5
+draw a circle, 5
+draw a square, 5
+write your name, 5
+erase the board, 5
+tap the screen, 5
+swipe left, 5
+swipe right, 5
+swipe up, 5
+swipe down, 5
+point to the left, 5
+point to the right, 5
+point up, 5
+point down, 5
+make a fist, 5
+open your hand, 5
+clap your hands, 5
+snap your fingers, 5
+wave goodbye, 5
+give a thumbs up, 5
+give a thumbs down, 5
+make a peace sign, 5
+make a fist bump, 5
+high five, 5
+low five, 5
+pat on the back, 5
+scratch your head, 5
+rub your chin, 5
+touch your nose, 5
+touch your ear, 5
+touch your shoulder, 5
+touch your elbow, 5
+touch your knee, 5
+touch your foot, 5
+touch your ankle, 5
+touch your wrist, 5
+touch your finger, 5
+touch your thumb, 5
+touch your palm, 5
+touch your back, 5
+touch your chest, 5
+touch your stomach, 5
+touch your hip, 5
+touch your thigh, 5
+touch your calf, 5
+touch your toe, 5
+touch your heel, 5
+touch your neck, 5
+touch your forehead, 5
+touch your cheek, 5
+touch your chin, 5
+touch your jaw, 5
+touch your temple, 5
+touch your eyebrow, 5
+touch your eyelid, 5
+touch your eyelash, 5
+touch your lip, 5
+touch your tongue, 5
+touch your tooth, 5
+touch your gum, 5
+touch your hair, 5
+touch your scalp, 5
+touch your ear lobe, 5
+touch your ear canal, 5
+touch your ear drum, 5
+touch your ear cartilage, 5
+touch your ear bone, 5
+touch your ear muscle, 5
+touch your ear nerve, 5
+touch your ear skin, 5
+touch your ear hair, 5
+touch your ear wax, 5
+touch your ear infection, 5
+touch your ear ache, 5
+touch your ear pain, 5
+touch your ear itch, 5
+touch your ear tickle, 5
+touch your ear ring, 5
+touch your ear plug, 5
+touch your ear bud, 5
+touch your ear phone, 5
+touch your ear piece, 5
+touch your ear loop, 5
+touch your ear hook, 5
+touch your ear pad, 5
+touch your ear cushion, 5
+touch your ear cup, 5
+touch your ear cover, 5
+touch your ear protector, 5
+touch your ear guard, 5
+touch your ear shield, 5
+touch your ear muff, 5
+touch your ear flap, 5
+touch your ear lobe, 5
+touch your ear canal, 5
+touch your ear drum, 5
+touch your ear cartilage, 5
+touch your ear bone, 5
+touch your ear muscle, 5
+touch your ear nerve, 5
+touch your ear skin, 5
+touch your ear hair, 5
+touch your ear wax, 5
+touch your ear infection, 5
+touch your ear ache, 5
+touch your ear pain, 5
+touch your ear itch, 5
+touch your ear tickle, 5
+touch your ear ring, 5
+touch your ear plug, 5
+touch your ear bud, 5
+touch your ear phone, 5
+touch your ear piece, 5
+touch your ear loop, 5
+touch your ear hook, 5
+touch your ear pad, 5
+touch your ear cushion, 5
+touch your ear cup, 5
+touch your ear cover, 5
+touch your ear protector, 5
+touch your ear guard, 5
+touch your ear shield, 5
+touch your ear muff, 5
+touch your ear flap, 5
+touch your ear lobe, 5
+touch your ear canal, 5
+touch your ear drum, 5
+touch your ear cartilage, 5
+touch your ear bone, 5
+touch your ear muscle, 5
+touch your ear nerve, 5
+touch your ear skin, 5
+touch your ear hair, 5
+touch your ear wax, 5
+touch your ear infection, 5
+touch your ear ache, 5
+touch your ear pain, 5
+touch your ear itch, 5
+touch your ear tickle, 5
+touch your ear ring, 5
+touch your ear plug, 5
+touch your ear bud, 5
+touch your ear phone, 5
+touch your ear piece, 5
+touch your ear loop, 5
+touch your ear hook, 5
+touch your ear pad, 5
+touch your ear cushion, 5
+touch your ear cup, 5
+touch your ear cover, 5
+touch your ear protector, 5
+touch your ear guard, 5
+touch your ear shield, 5
+touch your ear muff, 5
+touch your ear flap, 5
+touch your ear lobe, 5
+touch your ear canal, 5
+touch your ear drum, 5
+touch your ear cartilage, 5
+touch your ear bone, 5
+touch your ear muscle, 5
+touch your ear nerve, 5
+touch your ear skin, 5
+touch your ear hair, 5
+touch your ear wax, 5
+touch your ear infection, 5
+touch your ear ache, 5
+touch your ear pain, 5
+touch your ear itch, 5
+touch your ear tickle, 5
+touch your ear ring, 5
+touch your ear plug, 5
+touch your ear bud, 5
+touch your ear phone, 5
+touch your ear piece, 5
+touch your ear loop, 5
+touch your ear hook, 5
+touch your ear pad, 5
+touch your ear cushion, 5
+touch your ear cup, 5
+touch your ear cover, 5
+touch your ear protector, 5
+touch your ear guard, 5
+touch your ear shield, 5
+touch your ear muff, 5
+touch your ear flap, 5
+touch your ear lobe, 5
+touch your ear canal, 5
+touch your ear drum, 5
+touch your ear cartilage, 5
+touch your ear bone, 5
+touch your ear muscle, 5
+touch your ear nerve, 5
+touch your ear skin, 5
