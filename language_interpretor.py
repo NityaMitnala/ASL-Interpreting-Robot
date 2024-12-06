@@ -15,6 +15,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
+from Generation_Script import text_generation
 
 # Step 3: Prepare the dataset
 
@@ -62,7 +63,8 @@ def classify_text(text):
     return prediction[0]
 
 def input_classifier():
-    inp_text = input('Tell me what you would like me to do.\n')
+    inp_text = text_generation()
+    #inp_text = input('Tell me what you would like me to do.\n')
     return classify_text(inp_text)
 
 # Test the function
