@@ -29,11 +29,13 @@ step towards me, 0
 move in front, 0
 please proceed forward, 0
 come in my direction, 0
+move it in front, 0
 move towards my location, 0
 please walk forward, 0
 advance straight ahead, 0
 move directly forward, 0
 come straight ahead, 0
+move the cube front, 0
 please step forward, 0
 move in a forward direction, 0
 walk straight ahead, 0
@@ -878,6 +880,7 @@ please move the cube to the right direction, 2
 I would like you to shift the cube towards the right, 2
 can you move the cube towards the right side, 2
 please push the cube in the right direction, 2
+move the cube in the direction of my right arm, 2
 move the cube directly towards the right direction, 2
 slide the cube in the right direction, 2
 move the cube further towards the right side, 2
@@ -890,11 +893,13 @@ can you slide the cube towards the right direction, 2
 please shift the cube directly towards the right side, 2
 move the cube towards the right direction from here, 2
 slide the cube directly towards the right direction, 2
+move the cube towards my right arm, 2
 move the cube further towards the right direction, 2
 push the cube towards the right direction, 2
 shift the cube in the right direction from here, 2
 move the cube in the rightward direction from this spot, 2
 please move the cube to the right direction from here, 2
+move it to my right arm, 2
 I would like you to push the cube towards the right direction, 2
 can you move the cube towards the right direction, 2
 please shift the cube in the right direction from here, 2
@@ -975,12 +980,14 @@ proceed in the left direction, 3
 move in the leftward way, 3
 please move towards the left, 3
 I would like you to go left, 3
+move it towards my left arm, 3
 can you move left, 3
 please step to the left, 3
 move in the left-hand way, 3
 walk in the left direction, 3
 take a step towards the left, 3
 move towards the left-hand side, 3
+move it in the direction of my left arm, 3
 head in the left direction, 3
 make your way in the left direction, 3
 proceed in the leftward direction, 3
@@ -992,6 +999,7 @@ please step in the left direction, 3
 move in the left-hand direction from here, 3
 walk in the leftward direction, 3
 take a step towards the left side, 3
+move the cube towards my left arm, 3
 move towards the left-hand direction, 3
 head in the leftward direction, 3
 make your way in the leftward direction, 3
@@ -1284,6 +1292,7 @@ proceed in the upward direction from here, 4
 move in the upward direction from this location, 4
 please move in the upward way, 4
 I would like you to move up from here, 4
+take the cube a level above, 4
 can you go up from here, 4
 please step in the upward way, 4
 move in the upward direction from this location, 4
@@ -1291,6 +1300,7 @@ walk in the upward direction from here, 4
 take a step towards the higher level, 4
 move towards the higher direction from here, 4
 head in the upward direction from here, 4
+take it above me, 4
 make your way in the upward direction from here, 4
 proceed in the upward way from here, 4
 move in the upward direction from this area, 4
@@ -1304,6 +1314,7 @@ take a step towards the higher direction, 4
 move towards the higher direction from this spot, 4
 head in the upward direction from this spot, 4
 make your way in the upward direction from this spot, 4
+move above, 4
 proceed in the upward way from this spot, 4
 move in the upward direction from this point, 4
 please move in the upward direction from this spot, 4
